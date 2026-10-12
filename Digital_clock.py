@@ -18,7 +18,7 @@ class Digital_clock(QWidget):
 
     def initUI(self):
         self.setGeometry(1400,200,500,100)
-        self.setWindowTitle("YOKOSO WATASHI Digital Clock Society")
+        self.setWindowTitle("MY Digital Clock")
         self.setWindowIcon(QIcon("Python/GUI/smug face.png"))
         self.CSS()
 
