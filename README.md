@@ -11,5 +11,5 @@ This project is a fully functional desktop alarm clock. It features a modern use
 
 ## 🚀 Features
 *   **Real-time Clock:** Displays the current time in a clean, highly readable digital format.
-*   **Custom Alert Sounds:** Plays a sound notification when the alarm triggers (my preffered sound is listed).
+*   **Custom Alert Sounds:** Plays a mp3 sound notification when the alarm triggers (my preferred sound is listed).
 *   **Responsive UI:** Hover effects on buttons and clean dark/light mode aesthetics.
